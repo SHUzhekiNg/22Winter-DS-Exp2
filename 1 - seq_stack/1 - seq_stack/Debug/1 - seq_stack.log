@@ -1,0 +1,32 @@
+﻿  TestSeqStack.cpp
+D:\MyProjects\CourseExperiments\大二冬 - DS\实验二 栈和队列\1 - seq_stack\1 - seq_stack\SeqStack.h(32,2): error C3646: “ElemType”: 未知重写说明符
+D:\MyProjects\CourseExperiments\大二冬 - DS\实验二 栈和队列\1 - seq_stack\1 - seq_stack\SeqStack.h(33): message : 查看对正在编译的 类 模板 实例化“SeqStack<ElemType>”的引用
+D:\MyProjects\CourseExperiments\大二冬 - DS\实验二 栈和队列\1 - seq_stack\1 - seq_stack\SeqStack.h(32,10): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+D:\MyProjects\CourseExperiments\大二冬 - DS\实验二 栈和队列\1 - seq_stack\1 - seq_stack\SeqStack.h(32,1): error C2238: 意外的标记位于“;”之前
+D:\MyProjects\CourseExperiments\大二冬 - DS\实验二 栈和队列\1 - seq_stack\1 - seq_stack\SeqStack.h(53,2): error C3861: “maxSize”: 找不到标识符
+D:\MyProjects\CourseExperiments\大二冬 - DS\实验二 栈和队列\1 - seq_stack\1 - seq_stack\SeqStack.h(54,6): error C2065: “elems”: 未声明的标识符
+D:\MyProjects\CourseExperiments\大二冬 - DS\实验二 栈和队列\1 - seq_stack\1 - seq_stack\SeqStack.h(54,6): error C3861: “elems”: 找不到标识符
+D:\MyProjects\CourseExperiments\大二冬 - DS\实验二 栈和队列\1 - seq_stack\1 - seq_stack\SeqStack.h(54,30): error C3861: “elems”: 找不到标识符
+D:\MyProjects\CourseExperiments\大二冬 - DS\实验二 栈和队列\1 - seq_stack\1 - seq_stack\SeqStack.h(55,2): error C3861: “elems”: 找不到标识符
+D:\MyProjects\CourseExperiments\大二冬 - DS\实验二 栈和队列\1 - seq_stack\1 - seq_stack\SeqStack.h(55,23): error C3861: “maxSize”: 找不到标识符
+D:\MyProjects\CourseExperiments\大二冬 - DS\实验二 栈和队列\1 - seq_stack\1 - seq_stack\SeqStack.h(62,11): error C3861: “elems”: 找不到标识符
+D:\MyProjects\CourseExperiments\大二冬 - DS\实验二 栈和队列\1 - seq_stack\1 - seq_stack\SeqStack.h(74,9): error C3861: “maxSize”: 找不到标识符
+D:\MyProjects\CourseExperiments\大二冬 - DS\实验二 栈和队列\1 - seq_stack\1 - seq_stack\SeqStack.h(93,12): error C3861: “elems”: 找不到标识符
+D:\MyProjects\CourseExperiments\大二冬 - DS\实验二 栈和队列\1 - seq_stack\1 - seq_stack\SeqStack.h(99,13): error C2065: “maxSize”: 未声明的标识符
+D:\MyProjects\CourseExperiments\大二冬 - DS\实验二 栈和队列\1 - seq_stack\1 - seq_stack\SeqStack.h(99,13): error C3861: “maxSize”: 找不到标识符
+D:\MyProjects\CourseExperiments\大二冬 - DS\实验二 栈和队列\1 - seq_stack\1 - seq_stack\SeqStack.h(111,7): error C3861: “elems”: 找不到标识符
+D:\MyProjects\CourseExperiments\大二冬 - DS\实验二 栈和队列\1 - seq_stack\1 - seq_stack\SeqStack.h(122,7): error C3861: “elems”: 找不到标识符
+D:\MyProjects\CourseExperiments\大二冬 - DS\实验二 栈和队列\1 - seq_stack\1 - seq_stack\SeqStack.h(130,5): error C3861: “maxSize”: 找不到标识符
+D:\MyProjects\CourseExperiments\大二冬 - DS\实验二 栈和队列\1 - seq_stack\1 - seq_stack\SeqStack.h(131,9): error C2065: “elems”: 未声明的标识符
+D:\MyProjects\CourseExperiments\大二冬 - DS\实验二 栈和队列\1 - seq_stack\1 - seq_stack\SeqStack.h(131,9): error C3861: “elems”: 找不到标识符
+D:\MyProjects\CourseExperiments\大二冬 - DS\实验二 栈和队列\1 - seq_stack\1 - seq_stack\SeqStack.h(131,33): error C3861: “elems”: 找不到标识符
+D:\MyProjects\CourseExperiments\大二冬 - DS\实验二 栈和队列\1 - seq_stack\1 - seq_stack\SeqStack.h(132,5): error C3861: “elems”: 找不到标识符
+D:\MyProjects\CourseExperiments\大二冬 - DS\实验二 栈和队列\1 - seq_stack\1 - seq_stack\SeqStack.h(132,26): error C3861: “maxSize”: 找不到标识符
+D:\MyProjects\CourseExperiments\大二冬 - DS\实验二 栈和队列\1 - seq_stack\1 - seq_stack\SeqStack.h(135,3): error C3861: “elems”: 找不到标识符
+D:\MyProjects\CourseExperiments\大二冬 - DS\实验二 栈和队列\1 - seq_stack\1 - seq_stack\SeqStack.h(142,3): error C3861: “maxSize”: 找不到标识符
+D:\MyProjects\CourseExperiments\大二冬 - DS\实验二 栈和队列\1 - seq_stack\1 - seq_stack\SeqStack.h(143,10): error C2065: “elems”: 未声明的标识符
+D:\MyProjects\CourseExperiments\大二冬 - DS\实验二 栈和队列\1 - seq_stack\1 - seq_stack\SeqStack.h(143,10): error C3861: “elems”: 找不到标识符
+D:\MyProjects\CourseExperiments\大二冬 - DS\实验二 栈和队列\1 - seq_stack\1 - seq_stack\SeqStack.h(143,34): error C3861: “elems”: 找不到标识符
+D:\MyProjects\CourseExperiments\大二冬 - DS\实验二 栈和队列\1 - seq_stack\1 - seq_stack\SeqStack.h(144,6): error C3861: “elems”: 找不到标识符
+D:\MyProjects\CourseExperiments\大二冬 - DS\实验二 栈和队列\1 - seq_stack\1 - seq_stack\SeqStack.h(144,27): error C3861: “maxSize”: 找不到标识符
+D:\MyProjects\CourseExperiments\大二冬 - DS\实验二 栈和队列\1 - seq_stack\1 - seq_stack\SeqStack.h(147,4): error C3861: “elems”: 找不到标识符
