@@ -15,8 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="6 - carriage.cpp">
+    <ClCompile Include="carriage.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Assistance.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SeqStack.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -139,7 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="6 - carriage.cpp" />
+    <ClCompile Include="carriage.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Assistance.h" />
+    <ClInclude Include="SeqStack.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
